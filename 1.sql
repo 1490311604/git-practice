@@ -218,3 +218,6 @@ DELIMITER ;
 
 -- 示例6：获取研发部销售额前3名的员工
 -- CALL sp_get_top_employees('研发部', 3);
+
+-- 示例7：获取销售部销售额前3名的员工
+-- CALL sp_get_top_employees('销售部', 3);
